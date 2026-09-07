@@ -1,5 +1,5 @@
 # 🌍 World-GitHub
-Bem-vindo ao World GitHub, o seu guia definitivo e centralizado sobre todo o ecossistema do github, de controle de versão, ferramentas Git, plataformas de hospedagem e fluxos de trabalho, ferramentas visuais, automações e muito mais...
+Bem-vindo ao **World GitHub**, o seu guia definitivo e centralizado sobre todo o ecossistema do github, de controle de versão, ferramentas Git, plataformas de hospedagem e fluxos de trabalho, ferramentas visuais, automações e muito mais...
 
 Este repositório foi criado para documentar, ensinar e servir como consulta rápida para desenvolvedores de todos os níveis.
 
@@ -20,13 +20,13 @@ world-github/
 
 ## 🚀 O que você vai encontrar em cada pasta?
 
-   * Git: Aprenda os comandos fundamentais (```clone```, ```commit```, ```push```, ```pull```, ```stash```, ```rebase```), histórico da ferramenta e boas práticas.
-   * GitHub: Dicas de como criar um Profile README atrativo, gerenciar issues, pull requests e introdução a pipelines (GitHub Actions).
-   * GitLab: Recursos específicos da plataforma, comandos e introdução ao GitLab CI/CD.
-   * GitHub Pages: Passo a passo detalhado de como transformar seu repositório em um site publicado na web.
-   * Git Hooks: Como configurar gatilhos automáticos para validar seu código antes de enviar para o repositório.
-   * GitHub Flow: Entenda como funcionam as ramificações (```branches```), Pull Requests e organização de equipes.
-   * Git Graph: Conheça extensões e interfaces gráficas (como o Git Graph do VS Code e Lazygit) para visualizar seu histórico de forma visual.
+   * **Git**: Aprenda os comandos fundamentais (```clone```, ```commit```, ```push```, ```pull```, ```stash```, ```rebase```), histórico da ferramenta e boas práticas.
+   * **GitHub**: Dicas de como criar um Profile README atrativo, gerenciar issues, pull requests e introdução a pipelines (GitHub Actions).
+   * **GitLab**: Recursos específicos da plataforma, comandos e introdução ao GitLab CI/CD.
+   * **GitHub** Pages: Passo a passo detalhado de como transformar seu repositório em um site publicado na web.
+   * **Git Hooks**: Como configurar gatilhos automáticos para validar seu código antes de enviar para o repositório.
+   * **GitHub Flow**: Entenda como funcionam as ramificações (```branches```), Pull Requests e organização de equipes.
+   * **Git Graph**: Conheça extensões e interfaces gráficas (como o Git Graph do VS Code e Lazygit) para visualizar seu histórico de forma visual.
 
 ## 💡 Como Contribuir
 Sugestões, correções e novas adições são sempre muito bem-vindas!
