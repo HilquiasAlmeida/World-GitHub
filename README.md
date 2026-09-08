@@ -124,7 +124,7 @@ world-github/
            * **Git Cola**: Cliente gráfico para Git minimalista e rápido escrito em Python.
            * **GitKraken**: Cliente gráfico corporativo avançado e multiplataforma.
            * **Sourcetree**: Cliente Git gráfico gratuito desenvolvido pela Atlassian.
-           * * **TortoiseGit**: Ferramenta para Windows integrada diretamente ao Explorador de Arquivos.
+           * **TortoiseGit**: Ferramenta para Windows integrada diretamente ao Explorador de Arquivos.
       * **Independent CI/CD Tools & Automation** (```independent-ci-cd-tools-automation/```):
           * **Enterprise**:
               * **Jenkins**: O servidor de automação mais antigo e usado em grandes corporações.
