@@ -46,8 +46,7 @@ world-github/
    Plataformas de código aberto voltadas para comunidades de software livre e privacidade:
    * **Codeberg**: Plataforma comunitária e sem fins lucrativos focada em privacidade e sem rastreadores.
    * **Gitea**: Software de serviço Git leve, rápido e de código aberto.
-   * **Forgejo**: Fork comunitário e independente do Gitea, focado em governança aberta.
-   
+   * **Forgejo**: Fork comunitário e independente do Gitea, focado em governança aberta.  
    * **Sourcehut**: Uma alternativa minimalista e focada em desempenho para gerenciar repositórios Git via e-mail e web.
 
 2. Servidores Git Self-Hosted (**Para hospedar seu próprio "GitHub"**)
@@ -79,7 +78,7 @@ world-github/
    * **Travis CI**: Uma das ferramentas pioneiras de integração contínua para o GitHub.
    * **Drone.io**: Sistema de CI/CD nativo de contêineres e altamente escalável.
 
-6. Protocolos de Rede e Baixo Nível (**A Engenharia do Git**)
+5. Protocolos de Rede e Baixo Nível (**A Engenharia do Git**)
    
    Por trás dos comandos, o Git funciona usando protocolos de comunicação na internet e na rede local:
 
