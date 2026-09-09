@@ -16,7 +16,8 @@ Este documento serve como uma central de referência técnica completa para domi
       ├── 07-seguranca-devsecops/        <-- Configurações de SAST, Secret Detection e varredura de dependências
       ├── 08-recursos-avancados-api/     <-- Scripts de GitLab Pages, automações via API REST e Webhooks
       ├── 09-cheatsheet-comandos/        <-- Tabelas de referência rápida para consultas diárias
-      └── 10-portal-interface-web/       <-- O mapa completo de navegação e ajustes avançados no navegador
+      ├── 10-registry-pacotes/           <-- O guia técnico para desenvolvedores lidarem com Docker, npm, Maven e PyPI via terminal, IDEs e arquivos de configuração
+      └── 10-portal-interface-web/       <-- O manual completo para quem prefere navegar, configurar e operar tudo direto pelo site do GitLab sem mexer no terminal
   ```
 
 ---
