@@ -46,4 +46,3 @@ Diferente do DevOps tradicional (onde a segurança entra apenas no final), o Git
 3. **Build & Test**: O pipeline executa testes automatizados.
 4. **Secure (DevSecOps)**: Varreduras automáticas de SAST (código estático), DAST (aplicação em execução), DDI (Dependency Scanning) e Secret Detection rodam em paralelo. Se houver falha crítica, o Merge Request é bloqueado nativamente.
 5. **Deploy & Monitor**: Publicação controlada e monitoramento de erros em produção.
-6. 
