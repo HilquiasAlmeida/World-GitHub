@@ -31,6 +31,8 @@ deploy_secure:
     - if: '$CI_COMMIT_BRANCH == "main"'
 ```
 
+---
+
 ## 3. Verificação de Sucesso
-  * Verificação: Ao rodar a pipeline, valide nos logs do job que os valores mascarados aparecem estritamente como `[MASKED]`,
-      impedindo qualquer vazamento de dados confidenciais para a equipe.
+
+* **Verificação**: Ao rodar a pipeline, valide nos logs do job que os valores mascarados aparecem estritamente como `[MASKED]`, impedindo qualquer vazamento de dados confidenciais para a equipe.
