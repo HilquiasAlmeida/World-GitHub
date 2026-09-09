@@ -6,6 +6,8 @@ Esta pasta padroniza a governança de fluxo de trabalho, rastreabilidade de entr
 
 ## 📑 Índice de Arquivos da Pasta
 
-* [`issue-templates.md`](./issue-templates.md) - Padrões de abertura de chamados, bugs e features via templates padronizados (`.gitlab/issue_templates/`).
-* [`workflow-labels.md`](./workflow-labels.md) - Padronização rigorosa de etiquetas (labels) de prioridade, tipo e status corporativo.
-* [`milestones-boards.md`](./milestones-boards.md) - Organização de ciclos de entrega (Milestones) e quadros Kanban corporativos (Issue Boards).
+* [`issue-templates.md`](./issue-templates.md) - Guia completo de referência para os templates de abertura de chamados (Bugs, Features e Demandas Enterprise) com exemplos reais preenchidos (`.gitlab/issue_templates/`).
+* [`workflow-labels.md`](./workflow-labels.md) - Taxonomia oficial de etiquetas (labels) dividida por namespaces de tipo, prioridade, status de Kanban e segurança.
+* [`milestones-boards.md`](./milestones-boards.md) - Organização de ciclos de entrega (Milestones), quadros Kanban corporativos (Issue Boards) e mapeamento visual de fluxos.
+* [`merge-request-templates.md`](./merge-request-templates.md) - Padrão de rastreabilidade, nomenclatura de branches e revisão de código para integração de entregas entre branches.
+* [`dor-dod-policy.md`](./dor-dod-policy.md) - Critérios objetivos de prontidão (Definition of Ready) e conclusão (Definition of Done) para o ciclo ágil corporativo.
