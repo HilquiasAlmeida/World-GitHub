@@ -4,8 +4,22 @@ Bem-vindo ao diretório oficial do **GitLab** dentro do núcleo (**`nucleus/gitl
 
 Este documento serve como uma central de referência técnica completa para dominar o ecossistema GitLab. Seja você um desenvolvedor escrevendo código localmente, um engenheiro configurando pipelines de CI/CD ou um líder técnico estruturando governança DevSecOps, tudo o que você precisa saber sobre o GitLab está centralizado aqui.
 
----
+  ```
+    nucleus/gitlab/
+      ├── README.md                      <-- O Portal Mestre (Espelho Interativo)
+      ├── 01-fundamentos-visao-geral/    <-- Conceitos de Single Application e o ecossistema DevSecOps
+      ├── 02-fluxo-gitlab-flow/          <-- Guia visual e regras de branches (main, features e MRs)
+      ├── 03-cli-glab-terminal/          <-- Guia de instalação e automações via terminal com a CLI oficial
+      ├── 04-integracao-git-local/       <-- Blueprint de sincronização entre máquina local e repositórios remotos
+      ├── 05-pipelines-ci-cd/            <-- Modelos prontos de `.gitlab-ci.yml` e guias de Runners
+      ├── 06-gestao-projetos-issues/     <-- Estratégias de Kanban, Milestones e templates de Issues
+      ├── 07-seguranca-devsecops/        <-- Configurações de SAST, Secret Detection e varredura de dependências
+      ├── 08-recursos-avancados-api/     <-- Scripts de GitLab Pages, automações via API REST e Webhooks
+      ├── 09-cheatsheet-comandos/        <-- Tabelas de referência rápida para consultas diárias
+      └── 10-portal-interface-web/       <-- O mapa completo de navegação e ajustes avançados no navegador
+  ```
 
+---
 ## 📑 Sumário de Conteúdos
 1. [Visão Geral: O que é o GitLab?](#1-visão-geral-o-que-é-o-gitlab)
 2. [Arquitetura e Fluxo de Trabalho (GitLab Flow)](#2-arquitetura-e-fluxo-de-workflow-gitlab-flow)
