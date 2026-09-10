@@ -1,4 +1,4 @@
-# ⚡ 8. Recursos Avançados, API REST e Automações
+# ⚡ 08. Recursos Avançados, API REST e Automações
 
 Este módulo consolida as ferramentas de integração avançada do GitLab para o ecossistema **World GitHub**. Ele capacita equipes de engenharia a automatizar fluxos externos, integrar sistemas legados via API e publicar portais estáticos de documentação.
 
