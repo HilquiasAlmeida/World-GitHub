@@ -1,4 +1,4 @@
-# 📂 Pasta 06: Gestão de Projetos e Issues no GitLab
+# 📂 06. Gestão de Projetos e Issues no GitLab
 
 Esta pasta padroniza a governança de fluxo de trabalho, rastreabilidade de entregas e estruturação de demandas corporativas utilizando Issues, Templates, Milestones e Issue Boards do GitLab.
 
