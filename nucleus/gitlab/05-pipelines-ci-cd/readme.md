@@ -1,4 +1,4 @@
-# 📂 5. Pipelines CI/CD Avançadas
+# 📂 05. Pipelines CI/CD Avançadas
 
 Esta pasta centraliza toda a arquitetura de automação, integração contínua (CI) e entrega contínua (CD) para ambientes corporativos de alta criticidade, garantindo qualidade de código, segurança de segredos e controle rigoroso de deploys.
 
