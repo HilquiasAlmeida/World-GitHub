@@ -1,4 +1,4 @@
-# 📚 Módulo 09: Cheatsheet de Comandos (Git & GitLab CLI)
+# 📚 09. Cheatsheet de Comandos (Git & GitLab CLI)
 
 Este módulo consolida a referência rápida definitiva de comandos para o ecossistema **World GitHub**. Ele foi desenhado para eliminar consultas externas, cobrindo desde operações cotidianas de desenvolvimento até manutenções avançadas de histórico e automações via terminal.
 
