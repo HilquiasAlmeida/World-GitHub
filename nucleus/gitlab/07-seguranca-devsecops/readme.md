@@ -1,4 +1,4 @@
-# 🛡️ 7. Visão Geral de Segurança e DevSecOps
+# 🛡️ 07. Visão Geral de Segurança e DevSecOps
 
 Este documento serve como a porta de entrada para o ecossistema de segurança corporativa do **World GitHub**. No modelo Enterprise, a segurança não é um obstáculo burocrático no final do ciclo, mas sim um conjunto de trilhos automatizados que acompanham o desenvolvedor desde a primeira linha de código até a produção.
 
