@@ -103,6 +103,28 @@ nucleus/
   3. O Ecossistema de Plataforma Unificada: (**```gitlab/```**)
 
      Focado nas ferramentas, conceitos e comandos específicos do ecossistema GitLab, abordando desde a interação via CLI (```glab```) até a gestão de merge requests e pipelines nativos da plataforma.
+     O repositório central de referência técnica para toda a plataforma GitLab dentro do ecossistema. Criado com um propósito pragmático: servir de ponto de apoio para que qualquer usuário — do leigo absoluto que está abrindo a interface pela primeira vez até o engenheiro sênior — localize a informação exata em segundos, sem precisar perder tempo "carpindo" na internet atrás de tutoriais soltos e desatualizados. Esta seção centraliza conceitos, comandos de terminal e governança de nível Enterprise, dividindo-se em 11 módulos especializados para guiar você do absoluto zero à engenharia avançada de DevSecOps:
+        * **```01-fundamentos-visao-geral/```**: Introdução conceitual e estrutural da plataforma. Aborda a arquitetura interna e componentes essenciais (arquitetura-componentes.md), um comparativo prático com outras plataformas (comparativo-ferramentas.md) e as diferenças estratégicas entre os modelos de licença Free, Premium e Ultimate (licenciamento-versoes.md).
+    
+        * **```02-fluxo-gitlab-flow/```**: Metodologias oficiais de trabalho em equipe. Explora estratégias eficientes de ramificação (branching), o ciclo de vida completo de um Merge Request (MR) e as regras rígidas de governança e proteção de branches.
+    
+        * **```03-cli-glab-terminal/```**: O domínio da ferramenta oficial de linha de comando (glab). Ensina a organizar tarefas, gerenciar quadros Kanban avançados e manter a rastreabilidade diretamente pelo terminal, sem depender exclusivamente da interface web.
+    
+        * **```04-integracao-git-local/```**: A ponte entre a sua máquina e o ambiente corporativo. Focado em boas práticas de autenticação segura via chaves SSH, gestão de múltiplos perfis de usuário no gitconfig e geração e uso de Tokens de Acesso Pessoal (PAT).
+    
+        * **```05-pipelines-ci-cd/```**: A espinha dorsal da automação. Trata da criação de fluxos de entrega contínua para deploys multi-ambiente (Dev, Staging e Prod) e da gestão blindada de variáveis e segredos de ambiente.
+    
+        * **```06-gestao-projetos-issues/```**: Governança ágil de entregas. Detalha políticas de Definição de Pronto (DoD) e Pronto para Iniciar (DoR), templates padronizados para issues e merge requests, uso de milestones, boards e taxonomia estratégica de labels.
+    
+        * **```07-seguranca-devsecops/```**: Blindagem de código integrada ao ciclo de desenvolvimento. Explora a análise estática de código (SAST), detecção de segredos, varredura de vulnerabilidades em dependências e containers, além de pipelines de conformidade (compliance).
+    
+        * **```08-recursos-avancados-api/```**: Integrações programáticas de alto nível. Focado em automações avançadas utilizando a API REST do GitLab, integração em tempo real com webhooks e hospedagem nativa de sites via GitLab Pages.
+    
+        * **```09-cheatsheet-comandos/```**: Guias de consulta rápida (cheatsheets) para o cotidiano técnico, reunindo comandos essenciais do Git, operações avançadas (rebase, cherry-pick, reflog) e os principais comandos do terminal glab.
+        
+        * **```10-registry-pacotes/```**: Armazenamento e versionamento de artefatos de software. Abrange o registro seguro de imagens Docker (Container Registry), hospedagem de pacotes NPM/Maven e políticas inteligentes de retenção e limpeza de artefatos.
+          
+        * **```11-portal-interface-web/```**: Customização e produtividade na interface gráfica. Ensina a navegar por painéis de controle otimizados, configurar governança avançada de projetos e realizar edições ágiles direto pelo navegador com a Web IDE.
 
 ## 💡 Como Contribuir para o Núcleo
 
